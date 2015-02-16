@@ -1,0 +1,9 @@
+C:\Users\milou\Documents\GitHub\MyTools\ClipboardListener\ClipboardListener\bin\Debug\ClipboardListener.exe.config
+C:\Users\milou\Documents\GitHub\MyTools\ClipboardListener\ClipboardListener\bin\Debug\ClipboardListener.exe
+C:\Users\milou\Documents\GitHub\MyTools\ClipboardListener\ClipboardListener\bin\Debug\ClipboardListener.pdb
+C:\Users\milou\Documents\GitHub\MyTools\ClipboardListener\ClipboardListener\obj\Debug\ClipboardListener.csprojResolveAssemblyReference.cache
+C:\Users\milou\Documents\GitHub\MyTools\ClipboardListener\ClipboardListener\obj\Debug\ClipboardListener.Properties.Resources.resources
+C:\Users\milou\Documents\GitHub\MyTools\ClipboardListener\ClipboardListener\obj\Debug\ClipboardListener.csproj.GenerateResource.Cache
+C:\Users\milou\Documents\GitHub\MyTools\ClipboardListener\ClipboardListener\obj\Debug\ClipboardListener.exe
+C:\Users\milou\Documents\GitHub\MyTools\ClipboardListener\ClipboardListener\obj\Debug\ClipboardListener.pdb
+C:\Users\milou\Documents\GitHub\MyTools\ClipboardListener\ClipboardListener\obj\Debug\ClipboardListener.Form1.resources
